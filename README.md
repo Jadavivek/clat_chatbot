@@ -28,7 +28,7 @@ This project is a simple rule-based or NLP-powered chatbot that answers CLAT-rel
 Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone git@github.com:Jadavivek/clat_chatbot.git
 cd clat-chatbot
 2. Create a Virtual Environment (Optional but Recommended)
 Create and activate a virtual environment:
